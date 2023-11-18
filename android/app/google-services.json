@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "626477440147",
+    "project_id": "htetmgblog",
+    "storage_bucket": "htetmgblog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626477440147:android:d32971d7b86e75e2ab4166",
+        "android_client_info": {
+          "package_name": "com.example.htetmgblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626477440147-61p9a684euotp46knvqahhit7rb6ekbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlfiRaoU4mjgUshl0mIM0ZwEUX3J89qec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626477440147-61p9a684euotp46knvqahhit7rb6ekbf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "626477440147-0dfn7soqta4bm1ck94v7kp01mpdbvdef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.htetmgblog.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
